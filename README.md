@@ -1,2 +1,19 @@
 # Full-Stack-Web-Application-MERN-Stack-
-Developed a full-stack web application with JWT-based user authentication and complete CRUD functionality. Designed and integrated RESTful APIs with a MongoDB database for persistent storage. Deployed the application on a cloud platform for real-world simulation.    Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, RESTful APIs
+# MERN Full-Stack App
+
+Features:
+- JWT-based authentication
+- CRUD functionality
+- React.js frontend + Node.js/Express backend
+- MongoDB database
+- Deployed-ready
+
+## Tech Stack
+React.js | Node.js | Express.js | MongoDB | JWT | Axios
+
+## Setup
+1. Clone the repo
+2. Run `npm install` in both `/backend` and `/frontend`
+3. Add `.env` files for MongoDB URI and JWT secret
+4. Start backend: `node server.js` or `nodemon server.js`
+5. Start frontend: `npm start` in `/frontend`
